@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository
 <br>
-Author-Aditya Pal 
+Author-Aditya  Nath Pal 
